@@ -1,5 +1,4 @@
 # CCBS
-A website to reserve slots in community center of IIT Bhubaneswar
 Designed and developed a user-friendly website to reserve slots in the community center of IIT Bhubaneswar.
 
 In this first user has to login through the IIT Bhubaneswar mail Id then it will redirect the user to a user profile page where the user can see its details and the history of bookings he has done in past.
