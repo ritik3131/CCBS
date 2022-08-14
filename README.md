@@ -3,7 +3,7 @@ Designed and developed a user-friendly website to reserve slots in the community
 
 In this first user has to login through the IIT Bhubaneswar mail Id then it will redirect the user to a user profile page where the user can see its details and the history of bookings he has done in past.
 
-If the user wants to create a booking slot in CC then the time and availability of its booking will depend on its role. User has three
+If the user wants to create a booking slot in CC then the time and availability of its booking will depend on its role. User has three different type of roles .
 
 
 
